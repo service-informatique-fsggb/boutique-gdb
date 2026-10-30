@@ -24,7 +24,7 @@
   d'une page neuve, sans minuteries ni variables de la precedente.
 */
 (function () {
-  var EXEC = "https://script.google.com/macros/s/AKfycbwkK28KMu_xoKTXQoi1nlK5SzUFIcAbwN0wD938xjfcotx0ZjLZxejB_eHjpD8Hb2vM/exec";
+  var EXEC = "https://script.google.com/macros/s/AKfycbwW5GeOkiFxzGFXulOqIjNqGaZEMEk8QnHiHujMLhS59MN09ECAXTZITMmCuFcn3aLD/exec";
   var CACHE_DUREE_MAX = 7 * 86400000;
 
   // /vendeur, /admin, /test (aussi sous l'ancienne adresse /boutique-gdb/...).
